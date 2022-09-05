@@ -6,7 +6,7 @@
  * the website idea, name & number of each person.
  * build the backend server.
  * build the front-end website.
- * upload your project here with.
+ * upload your project here.
  * Screenshot for your website.
 
 #Helper links 
